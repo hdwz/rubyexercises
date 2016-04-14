@@ -20,4 +20,6 @@
 #elsif choice == "2"
   #remove customer
 
+#learning git comments etc
 #add random comment
+#this is going to be a demo of a pull request
